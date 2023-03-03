@@ -1,9 +1,9 @@
 # Hojas-de-vida-ADSO2698056
 Luis Cortezano
 
-![foto](https://web.whatsapp.com/bd4aeb66-d846-4170-bc59-f01b78b2b293)
+![foto]<a href= (https://web.whatsapp.com/bd4aeb66-d846-4170-bc59-f01b78b2b293)></a>
 
-#Informacion Personal
+# Informacion Personal
 
 |datos|descripcion|
 |---|---|
@@ -15,15 +15,16 @@ Luis Cortezano
 |fecha de nacimiento|24-06-2006|
 
 
-##Estudios
+## Estudios
 
 |datos|descripcion|
 |---|---|
 |colegio|I.E.D de carrizal|
 |sena|ADSO2|
 
-###Habilidades
+### Habilidades
 - responsable
 - trabajo en equipo
 - carismatico
-- atento 
+- atento
+ 
