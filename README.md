@@ -22,3 +22,8 @@ Luis Cortezano
 |colegio|I.E.D de carrizal|
 |sena|ADSO2|
 
+###Habilidades
+- responsable
+- trabajo en equipo
+- carismatico
+- atento 
