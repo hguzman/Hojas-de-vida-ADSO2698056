@@ -1,7 +1,7 @@
 # Hojas-de-vida-ADSO2698056
 Luis Cortezano
 
-![foto]<a href= (https://web.whatsapp.com/bd4aeb66-d846-4170-bc59-f01b78b2b293)></a>
+![foto](https://web.whatsapp.com/bd4aeb66-d846-4170-bc59-f01b78b2b293)
 
 # Informacion Personal
 
@@ -27,4 +27,3 @@ Luis Cortezano
 - trabajo en equipo
 - carismatico
 - atento
- 
