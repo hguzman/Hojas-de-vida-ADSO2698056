@@ -10,11 +10,11 @@ Hojas de vida aprendices
 | Nombre | Abel Mattos |
 | T.I. | 1044611454 |
 | Edad | 17 años |
-| Correo | martinezmattosabeljesus5@gmail.com |
+| Correo Electronico | martinezmattosabeljesus5@gmail.com |
 
 ## Estudios
 
 | Datos | Descripcion |
 |-------|-------------|
-| Colegio | I.E.D De Carrizal |
-| Sena | ADSO 2 |
+| Escuela | I.E.D De Carrizal |
+| Sena | Tecnico en sistemas |
