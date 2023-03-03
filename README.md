@@ -1,7 +1,7 @@
 # Hojas-de-vida-ADSO2698056
 Luis Cortezano
 
-![foto](https://web.whatsapp.com/bd4aeb66-d846-4170-bc59-f01b78b2b293)
+![foto](https://www.clara.es/medio/2021/09/23/corte-de-pelo-hombre_b24e8652_1280x1927.jpg)
 
 # Informacion Personal
 
