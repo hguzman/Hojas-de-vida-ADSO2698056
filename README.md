@@ -11,6 +11,9 @@ Luis Cortezano
 |numero|3246794400|
 |cedula|1044617440|
 |correo|luisdavidcortezano@gnmail.com|
+|estado civil|soltero|
+|fecha de nacimiento|24-06-2006|
+
 
 ##Estudios
 
