@@ -12,3 +12,10 @@ Luis Cortezano
 |cedula|1044617440|
 |correo|luisdavidcortezano@gnmail.com|
 
+##Estudios
+
+|datos|descripcion|
+|---|---|
+|colegio|I.E.D de carrizal|
+|sena|ADSO2|
+
