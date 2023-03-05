@@ -11,4 +11,12 @@
 | Celular | 3225191181 |
 
 
+## Estudios 
+
+| Datos  | Descripción | 
+|--------|-------------|
+| Colegio | Institucion Pedro A Oñoro De baranoa |
+| Sena | Tecnico En Sistemas |
+
+
 
