@@ -3,3 +3,7 @@
 height = "90 "
  width = "70 "
 />
+# DATOS PERSONALES
+| NOMBRE | APEDILLOS | CELULAR  | FECHA DE NACIMIENTO |   T.I    |
+|--------|-----------|----------|---------------------|----------|
+| IVAN   | MEJIA     |3006984927| 2/07/2005           |1082861988|
